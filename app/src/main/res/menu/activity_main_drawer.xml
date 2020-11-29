@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigationView">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_avatar"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/avatar"/>
+
+        <item
+            android:id="@+id/about_developers"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="@string/about_developers" />
+
+        <item
+            android:id="@+id/feedback"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="@string/feedback" />
+    </group>
+    <item android:title="@string/options">
+          <menu>
+              <item
+                  android:id="@+id/settings"
+                  android:icon="@drawable/ic_menu_manage"
+                  android:title="@string/settings"/>
+
+              <item
+                  android:id="@+id/choose_city_menu"
+                  android:icon="@android:drawable/ic_dialog_map"
+                  android:title="@string/choose_city" />
+
+              <item
+                  android:id="@+id/naw_share"
+                  android:icon="@drawable/ic_menu_share"
+                  android:title="@string/share"/>
+        </menu>
+    </item>
+</menu>

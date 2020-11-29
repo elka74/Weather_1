@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Weather_!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather">WEATHER</string>
+    <string name="moscow">Moscow</string>
+    <string name="tmp_msc"> 13 °C</string>
+    <string name="logo">LOGO</string>
+    <string name="wind">wind</string>
+    <string name="pressure">pressure</string>
+    <string name="humidity">humidity</string>
+    <string name="wind_z">13 m/c</string>
+    <string name="pressure_z">725 mm.rt.st</string>
+    <string name="humidity_z">45 %</string>
+    <string name="choose_city">choose city</string>
+    <string name="show_additional_information">show additional information</string>
+    <string name="navigation_drawer_open">string</string>
+    <string name="navigation_drawer_close">string</string>
+    <string name="android_studo_android_com">android.studio@android.com</string>
+    <string name="share">share</string>
+    <string name="settings">settings</string>
+    <string name="t_e">true</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="avatar">avatar</string>
+    <string name="about_developers">about developers</string>
+    <string name="feedback">feedback</string>
+    <string name="options">options</string>
+    <string name="action_settings">settings</string>
+    <string name="clear">clear</string>
+    <string name="search">search</string>
+    <string name="dialog_message">" show additional information"</string>
+    <string name="ok">OK</string>
+    <string name="no">NO</string>
+    <string name="refresh">refresh</string>
+    <string name="apply">apply</string>
+    <string name="city">city_input</string>
+    <string name="change_city">Change city</string>
+</resources>
